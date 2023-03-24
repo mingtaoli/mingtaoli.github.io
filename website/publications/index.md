@@ -31,7 +31,11 @@
 ### 2017
 ### 2016
 ### 2015
-### 2014以前
+### 2014及以前
+
+15. Ya Liu, Liang Zhao, **Mingtao Li~~~<sup>†</sup>~~~**, Liejin Guo. TiO~~~<sub>2</sub>~~~/CdSe core–shell nanofiber film for photoelectrochemical hydrogen generation. Nanoscale, 2014, 6(13): 7397-7404. (<https://pubs.rsc.org/en/content/articlehtml/2014/nr/c4nr00856a>)
+
+14. Jiangang Jiang, Meng Wang, Qingyun Chen~~~<sup>†</sup>~~~, Shaohua Shen, **Mingtao Li**, Liejin Guo. Synthesis and characterization of nanoporous Bi~~~<sub>3</sub>~~~NbO~~~<sub>7</sub>~~~ films: application to photoelectrochemical water splitting. RSC Advances, 2014, 4(21): 10542-10548. (<https://pubs.rsc.org/en/content/articlehtml/2014/ra/c3ra47118g>)
 
 13. Ya Liu, Jiangang Jiang, Quan Xu, **Mingtao Li~~~<sup>†</sup>~~~**, Liejin Guo. Photoelectrochemical performance of CdS nanorods grafted vertically aligned TiO~~~<sub>2</sub>~~~ nanorods. Materials Research Bulletin, 2013, 48(11): 4548-4554. (<https://www.sciencedirect.com/science/article/pii/S0025540813005990>)
 
