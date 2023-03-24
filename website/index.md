@@ -1,4 +1,4 @@
-@def title = "Franklin Example"
+@def title = "见微知"
 @def tags = ["syntax", "code"]
 
 # How to use Franklin
