@@ -11,13 +11,12 @@
 73. Jialin Wang, Yu-Cheng Huang, Yiqing Wang, Hao Deng, Yuchuan Shi, Daixing Wei, **Mingtao Li**, Chung-Li Dong, Hui Jin, Samuel S. Mao, Shaohua Shen~~~<sup>†</sup>~~~. Atomically Dispersed Metal–Nitrogen–Carbon Catalysts with d-Orbital Electronic Configuration-Dependent Selectivity for Electrochemical CO2-to-CO Reduction. ACS Catalysis, 2023, 13: 2374–2385. (<https://pubs.acs.org/doi/10.1021/acscatal.2c05249>)
 
 
-72. Daixing Wei, Yiqing Wang, Chung-Li Dong, Zhengqi Zhang, Xinyu Wang, Yu-Cheng Huang, Yuchuan Shi, Xiaoli Zhao, Jialin Wang, Ran Long, Yujie Xiong, Fan Dong, **Mingtao Li**, Shaohua Shen~~~<sup>†</sup>~~~. Decrypting the Controlled Product Selectivity over Ag-Cu Bimetallic Surface Alloys for Electrochemical CO2 Reduction. Angewandte Chemie International Edition, 2023, Accepted. (<https://onlinelibrary.wiley.com/doi/10.1002/anie.202217369>)
+72. Daixing Wei, Yiqing Wang, Chung-Li Dong, Zhengqi Zhang, Xinyu Wang, Yu-Cheng Huang, Yuchuan Shi, Xiaoli Zhao, Jialin Wang, Ran Long, Yujie Xiong, Fan Dong, **Mingtao Li**, Shaohua Shen~~~<sup>†</sup>~~~. Decrypting the Controlled Product Selectivity over Ag-Cu Bimetallic Surface Alloys for Electrochemical CO~~~<sub>2</sub>~~~ Reduction. Angewandte Chemie International Edition, 2023, Accepted. (<https://onlinelibrary.wiley.com/doi/10.1002/anie.202217369>)
 
 
-71. Ke Wang, Dongyu Liu, Limin Liu, Xinyang Li, Hu Wu, Zongjie Sun, **Mingtao Li**, Andrey S. Vasenko, Shujiang Ding, Fengmei Wang~~~<sup>†</sup>~~~, Chunhui Xiao~~~<sup>†</sup>~~~. Isolated Metalloid Tellurium Atomic Cluster on Nitrogen-Doped Carbon Nanosheet for High-Capacity Rechargeable Lithium-CO2 Battery. Advanced Science, 2023, Early View. 
-(<https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202205959>)
+71. Ke Wang, Dongyu Liu, Limin Liu, Xinyang Li, Hu Wu, Zongjie Sun, **Mingtao Li**, Andrey S. Vasenko, Shujiang Ding, Fengmei Wang~~~<sup>†</sup>~~~, Chunhui Xiao~~~<sup>†</sup>~~~. Isolated Metalloid Tellurium Atomic Cluster on Nitrogen-Doped Carbon Nanosheet for High-Capacity Rechargeable Lithium-CO~~~<sub>2</sub>~~~ Battery. Advanced Science, 2023, Early View. (<https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202205959>)
 
-70. Yuchuan Shi, Yiqing Wang, Chung-Li Dong, Ta Thi Thuy Nga, Daixing Wei, Jialin Wang, Xiaoli Zhao, Miao Wang, Kaini Zhang, **Mingtao Li**, Fan Dong, Shaohua Shen~~~<sup>†</sup>~~~. Localized Geometry Determined Selectivity of Iodide-Derived Copper for Electrochemical CO2 Reduction. Advanced Energy Materials, 2023, Early View. (<https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202203896>)
+70. Yuchuan Shi, Yiqing Wang, Chung-Li Dong, Ta Thi Thuy Nga, Daixing Wei, Jialin Wang, Xiaoli Zhao, Miao Wang, Kaini Zhang, **Mingtao Li**, Fan Dong, Shaohua Shen~~~<sup>†</sup>~~~. Localized Geometry Determined Selectivity of Iodide-Derived Copper for Electrochemical CO~~~<sub>2</sub>~~~ Reduction. Advanced Energy Materials, 2023, Early View. (<https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202203896>)
 
 69. Lianlian Mao, Hao Deng, **Mingtao Li**, Shaohua Shen~~~<sup>†</sup>~~~. Manipulating interface built-in electric fields for efficient spatial charge separation in hematite-based photoanodes. Science China(Materials), 2023, 66(02): 603-613. (<https://link.springer.com/article/10.1007/s40843-022-2194-3>)
 
@@ -26,12 +25,12 @@
 68. Zhi Lin, Zhengqi Zhang, Yiqing Wang, Zhiming Peng, Xinxin Wang, Ruizhe Wang, Yu-Cheng Huang, Fanqi Meng, **Mingtao Li**, Chung-Li Dong, Qinghua Zhang, Lin Gu, Shaohua Shen~~~<sup>†</sup>~~~. Anchoring Single Nickel Atoms on Carbon-vacant Carbon Nitride Nanosheets for Efficient Photocatalytic Hydrogen Evolution. Chemical Research in Chinese Universities, 2022, 38(5): 1243–1250. (<https://link.springer.com/article/10.1007/s40242-022-2194-7>)
 
 
-67. Lianlian Mao, Yu-Cheng Huang, Hao Deng, Fanqi Meng, Yanming Fu, Yiqing Wang, **Mingtao Li**, Qinghua Zhang, Chung-Li Dong, Lin Gu, Shaohua Shen~~~<sup>†</sup>~~~. Synergy of Ultrathin CoOx Overlayer and Nickel Single Atoms on Hematite Nanorods for Efficient Photo-Electrochemical Water Splitting. Small, 2022, Early View. (<https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202203838>)
+67. Lianlian Mao, Yu-Cheng Huang, Hao Deng, Fanqi Meng, Yanming Fu, Yiqing Wang, **Mingtao Li**, Qinghua Zhang, Chung-Li Dong, Lin Gu, Shaohua Shen~~~<sup>†</sup>~~~. Synergy of Ultrathin CoO~~~<sub>x</sub>~~~ Overlayer and Nickel Single Atoms on Hematite Nanorods for Efficient Photo-Electrochemical Water Splitting. Small, 2022, Early View. (<https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202203838>)
 
 
 66. Zhitong Wang, Yansong Zhou, Dongyu Liu, Ruijuan Qi, Chenfeng Xia, **Mingtao Li**, Bo You, Bao Yu Xia~~~<sup>†</sup>~~~. Carbon-Confined Indium Oxides for Efficient Carbon Dioxide Reduction in a Solid-State Electrolyte Flow Cell. Angewandte Chemie International Edition, 2022, 61(21): e202200552. (<https://onlinelibrary.wiley.com/doi/10.1002/anie.202200552>)
 
-65. Lei Zhang, Lubing Li, Ziliang Gao, Liejin Guo, **Mingtao Li**, Jinzhan Su~~~<sup>†</sup>~~~. Porous Hierarchical Iron/Nitrogen co-doped Carbon Etched by g-C3N4 Pyrolysis as Efficient Non-noble Metal Catalysts for PEM Fuel Cells. ChemElectroChem, 2022, 9(6): e202101681. (<https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202101681>)
+65. Lei Zhang, Lubing Li, Ziliang Gao, Liejin Guo, **Mingtao Li**, Jinzhan Su~~~<sup>†</sup>~~~. Porous Hierarchical Iron/Nitrogen co-doped Carbon Etched by g-C~~~<sub>3</sub>~~~N~~~<sub>4</sub>~~~ Pyrolysis as Efficient Non-noble Metal Catalysts for PEM Fuel Cells. ChemElectroChem, 2022, 9(6): e202101681. (<https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202101681>)
 
 
 64. Tímea Benkó, Dávid Lukács, **Mingtao Li**, József S. Pap~~~<sup>†</sup>~~~. Redox-active ligands in artificial photosynthesis: a review. Environmental Chemistry Letters, 2022, 20: 3657–3695. (<https://link.springer.com/article/10.1007/s10311-022-01448-3>)
@@ -47,12 +46,12 @@
 
 ### 2021
 
-59. Ruidong Li, Yanming Zhang, **Mingtao Li**, Yueshe Wang~~~<sup>†</sup>~~~. Adsorption behaviors of NH3 and HCl molecules on Fe-based crystal planes: A DFT study. Chemical Engineering Science, 2021, 246: 116976. (<https://www.sciencedirect.com/science/article/pii/S0009250921005418>)
+59. Ruidong Li, Yanming Zhang, **Mingtao Li**, Yueshe Wang~~~<sup>†</sup>~~~. Adsorption behaviors of NH~~~<sub>3</sub>~~~ and HCl molecules on Fe-based crystal planes: A DFT study. Chemical Engineering Science, 2021, 246: 116976. (<https://www.sciencedirect.com/science/article/pii/S0009250921005418>)
 
 
 58. Yaming Ma, Dongyu Liu, Hu Wu, **Mingtao Li**, Shujiang Ding, Anthony Shoji Hall~~~<sup>†</sup>~~~, Chunhui Xiao~~~<sup>†</sup>~~~. Promoting Bifunctional Water Splitting by Modification of the Electronic Structure at the Interface of NiFe Layered Double Hydroxide and Ag. ACS Applied Materials & Interfaces, 2021, 13(22): 26055-26063. (<https://pubs.acs.org/doi/full/10.1021/acsami.1c05123>)
 
-57. Zhitong Wang, Ruijuan Qi, Dongyu Liu, Xiaodie Zhao, Lei Huang, Shenghua Chen, Zhiquan Chen, **Mingtao Li**, Bo You, Yuanjie Pang, Bao Yu Xia. Exfoliated Ultrathin ZnIn2S4 Nanosheets with Abundant Zinc Vacancies for Enhanced CO2 Electroreduction to Formate. ChemSusChem, 2021, 14(3): 852-859. (<https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.202002785>)
+57. Zhitong Wang, Ruijuan Qi, Dongyu Liu, Xiaodie Zhao, Lei Huang, Shenghua Chen, Zhiquan Chen, **Mingtao Li**, Bo You, Yuanjie Pang, Bao Yu Xia. Exfoliated Ultrathin ZnIn~~~<sub>2</sub>~~~S~~~<sub>4</sub>~~~ Nanosheets with Abundant Zinc Vacancies for Enhanced CO~~~<sub>2</sub>~~~ Electroreduction to Formate. ChemSusChem, 2021, 14(3): 852-859. (<https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.202002785>)
 
 56. Tímea Benkó, Dávid Lukács, Krisztina Frey, Miklós Németh, Márta M Móricz, Dongyu Liu, Éva Kováts, Nóra V May, Lionel Vayssieres, Mingtao Li, József S Pap. Redox-inactive metal single-site molecular complexes: a new generation of electrocatalysts for oxygen evolution? Catalysis Science & Technology, 2021, 11(19): 6411-6424. (<https://pubs.rsc.org/en/content/articlehtml/2021/cy/d1cy01087e>)
 
@@ -85,12 +84,12 @@
 44. Jin Liang~~~<sup>†</sup>~~~, Haiqi Shen, Yaming Ma, Dongyu Liu, **Mingtao Li**, Jie Kong, Yusheng Tang, Shujiang Ding. Autogenous growth of the hierarchical V-doped NiFe layer double metal hydroxide electrodes for an enhanced overall water splitting. Dalton Transactions, 2020, 49(32): 11217-11225. (<https://pubs.rsc.org/en/content/articlehtml/2020/dt/d0dt01520b>)
 
 
-43. Xuxiao Yang, Peilin Deng, Dongyu Liu, Shuang Zhao, Dan Li, Hu Wu, Yaming Ma, Bao Yu Xia~~~<sup>†</sup>~~~, **Mingtao Li~~~<sup>†</sup>~~~**, Chunhui Xiao~~~<sup>†</sup>~~~, Shujiang Ding. Partial sulfuration-induced defect and interface tailoring on bismuth oxide for promoting electrocatalytic CO 2 reduction. Journal of Materials Chemistry A, 2020, 8(5): 2472-2480. (<https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11363k>)
+43. Xuxiao Yang, Peilin Deng, Dongyu Liu, Shuang Zhao, Dan Li, Hu Wu, Yaming Ma, Bao Yu Xia~~~<sup>†</sup>~~~, **Mingtao Li~~~<sup>†</sup>~~~**, Chunhui Xiao~~~<sup>†</sup>~~~, Shujiang Ding. Partial sulfuration-induced defect and interface tailoring on bismuth oxide for promoting electrocatalytic CO~~~<sub>2</sub>~~~ reduction. Journal of Materials Chemistry A, 2020, 8(5): 2472-2480. (<https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11363k>)
 
 
-42. Yuhan Li, Zongjie Sun, Dongyu Liu, Yiyang Gao, Yuankun Wang, Huaitian Bu, **Mingtao Li**, Yanfeng Zhang, Guoxin Gao~~~<sup>†</sup>~~~, Shujiang Ding~~~<sup>†</sup>~~~. A composite solid polymer electrolyte incorporating MnO 2 nanosheets with reinforced mechanical properties and electrochemical stability for lithium metal batteries. Journal of Materials Chemistry A, 2020, 8(4): 2021-2032. (<https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11542k>)
+42. Yuhan Li, Zongjie Sun, Dongyu Liu, Yiyang Gao, Yuankun Wang, Huaitian Bu, **Mingtao Li**, Yanfeng Zhang, Guoxin Gao~~~<sup>†</sup>~~~, Shujiang Ding~~~<sup>†</sup>~~~. A composite solid polymer electrolyte incorporating MnO~~~<sub>2</sub>~~~ nanosheets with reinforced mechanical properties and electrochemical stability for lithium metal batteries. Journal of Materials Chemistry A, 2020, 8(4): 2021-2032. (<https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11542k>)
 
-41. Dongyu Liu, Ya Liu, **Mingtao Li~~~<sup>†</sup>~~~**. Understanding How Atomic Sulfur Controls the Selectivity of the Electroreduction of CO2 to Formic Acid on Metallic Cu Surfaces. Journal of Physical Chemistry C, 2020, 124(11): 6145-6153. (<https://pubs.acs.org/doi/full/10.1021/acs.jpcc.9b11830>)
+41. Dongyu Liu, Ya Liu, **Mingtao Li~~~<sup>†</sup>~~~**. Understanding How Atomic Sulfur Controls the Selectivity of the Electroreduction of CO~~~<sub>2</sub>~~~ to Formic Acid on Metallic Cu Surfaces. Journal of Physical Chemistry C, 2020, 124(11): 6145-6153. (<https://pubs.acs.org/doi/full/10.1021/acs.jpcc.9b11830>)
 
 ### 2019
 
@@ -103,7 +102,7 @@
 
 ### 2018
 
-37. Fengshuang Han, Zhaohui Zhou~~~<sup>†</sup>~~~, Zhenxiong Huang, **Mingtao Li**, Liejin Guo~~~<sup>†</sup>~~~. Effect of Water Adsorption on Interfacial Structure and Band Edge Alignment of Anatase TiO2 (001)/Water by First-Principles Molecular Dynamics. Journal of Physical Chemistry C, 2018, 122(47): 26965-26973. (<https://pubs.acs.org/doi/10.1021/acs.jpcc.8b09191>)
+37. Fengshuang Han, Zhaohui Zhou~~~<sup>†</sup>~~~, Zhenxiong Huang, **Mingtao Li**, Liejin Guo~~~<sup>†</sup>~~~. Effect of Water Adsorption on Interfacial Structure and Band Edge Alignment of Anatase TiO~~~<sub>2</sub>~~~ (0 0 1)/Water by First-Principles Molecular Dynamics. Journal of Physical Chemistry C, 2018, 122(47): 26965-26973. (<https://pubs.acs.org/doi/10.1021/acs.jpcc.8b09191>)
 
 
 36. Xu Liu, Xiangkun Elvis Cao, Ya Liu, Xiaobing Li, Meng Wang, **Mingtao Li~~~<sup>†</sup>~~~**. Branched multiphase TiO~~~<sub>2</sub>~~~ with enhanced photoelectrochemical water splitting activity. International Journal of Hydrogen Energy, 2018, 43(46): 21365-21373. (<https://www.sciencedirect.com/science/article/pii/S0360319918331227>)
@@ -112,13 +111,13 @@
 
 34. Yuchen Pu, Ya Liu, Dongyu Liu, Zhaohui Zhou, Shujiang Ding, Zhenhai Xia, **Mingtao Li~~~<sup>†</sup>~~~**. First-principles screening visible-light active delafossite ABO~~~<sub>2</sub>~~~ structures for photocatalytic application. International Journal of Hydrogen Energy, 2018, 43(36):17271-17282. (<https://www.sciencedirect.com/science/article/pii/S0360319918322547>)
 
-33. Fengshuang Han, Zhaohui Zhou, Xiaohai Zhang, Zhenxiong Huang, **Mingtao Li**, Liejin Guo~~~<sup>†</sup>~~~. First-Principles Study on Stability and HER Activity of Noble Metal Single Atoms on TiO2: The Effect of Loading Density. The Journal of Physical Chemistry C, 2018, 122(5): 2546-2553. (<https://pubs.acs.org/doi/full/10.1021/acs.jpcc.7b11486>)
+33. Fengshuang Han, Zhaohui Zhou, Xiaohai Zhang, Zhenxiong Huang, **Mingtao Li**, Liejin Guo~~~<sup>†</sup>~~~. First-Principles Study on Stability and HER Activity of Noble Metal Single Atoms on TiO~~~<sub>2</sub>~~~: The Effect of Loading Density. The Journal of Physical Chemistry C, 2018, 122(5): 2546-2553. (<https://pubs.acs.org/doi/full/10.1021/acs.jpcc.7b11486>)
 
 ### 2016
 
-32. Jinzhan Su~~~<sup>†</sup>~~~, Cong Liu, Dongyu Liu, **Mingtao Li**, Jinglan Zhou. Enhanced Photoelectrochemical Performance of the BiVO4/Zn:BiVO4 Homojunction for Water Oxidation. ChemCatChem, 2016, 8(20): 3279-3286. (<https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cctc.201600767>)
+32. Jinzhan Su~~~<sup>†</sup>~~~, Cong Liu, Dongyu Liu, **Mingtao Li**, Jinglan Zhou. Enhanced Photoelectrochemical Performance of the BiVO~~~<sub>4</sub>~~~/Zn:BiVO~~~<sub>4</sub>~~~ Homojunction for Water Oxidation. ChemCatChem, 2016, 8(20): 3279-3286. (<https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cctc.201600767>)
 
-31. Jinwen Shi~~~<sup>†</sup>~~~, Ya Liu, Zhenxiong Huang, Zhaohui Zhou, Junkai Deng, Xu Liu, **Mingtao Li~~~<sup>†</sup>~~~**. Novel cubic-phase pyrochlore Sb(III)2Sn(IV)2O7 transformed from Sn(II)2Sb(V)2O7: First-principles calculation-based prediction and experimental evidence. Materials & Design, 2016, 110: 207-213. (<http://www.sciencedirect.com/science/article/pii/S0264127516310486>)
+31. Jinwen Shi~~~<sup>†</sup>~~~, Ya Liu, Zhenxiong Huang, Zhaohui Zhou, Junkai Deng, Xu Liu, **Mingtao Li~~~<sup>†</sup>~~~**. Novel cubic-phase pyrochlore Sb(III)2Sn(IV)2O7 transformed from Sn(II)~~~<sub>2</sub>~~~Sb(V)~~~<sub>2</sub>~~~O~~~<sub>7</sub>~~~: First-principles calculation-based prediction and experimental evidence. Materials & Design, 2016, 110: 207-213. (<http://www.sciencedirect.com/science/article/pii/S0264127516310486>)
 
 
 30. Ya Liu, Youhong Guo, Laura T. Schelhas, **Mingtao Li~~~<sup>†</sup>~~~**, Joel W. Ager III~~~<sup>†</sup>~~~. Undoped and Ni-Doped CoO~~~<sub>x</sub>~~~ Surface Modification of Porous BiVO~~~<sub>4</sub>~~~ Photoelectrodes for Water Oxidation. Journal of Physical Chemistry C, 2016, 120(41):23449–23457. (<https://pubs.acs.org/doi/10.1021/acs.jpcc.6b08654>)
