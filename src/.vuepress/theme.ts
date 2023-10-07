@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "mingtaoli/mingtaoli.github.io",
 
   docsDir: "src",
 
