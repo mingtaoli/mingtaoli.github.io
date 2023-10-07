@@ -9,8 +9,6 @@ bgImageStyle:
   background-attachment: fixed
 heroText: 见微知
 tagline: 于细微之处见真知
-
-
 ---
 
 # 见微知

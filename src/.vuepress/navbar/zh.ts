@@ -5,12 +5,12 @@ export const zhNavbar = navbar([
   {
     text: "我的简历",
     icon: "book",
-    link: "/publications/",
+    link: "/cv/",
   },
   {
     text: "研究方向",
     icon: "book",
-    link: "/publications/",
+    link: "/research/",
   },
   {
     text: "论文/著作",
@@ -30,7 +30,7 @@ export const zhNavbar = navbar([
   {
     text: "人才需求",
     icon: "puzzle-piece",
-    link: "/position/",
+    link: "/positions/",
   },
   {
     text: "学习笔记",
