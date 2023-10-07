@@ -46,8 +46,8 @@ export default hopeTheme({
 
       // sidebar
       sidebar: zhSidebar,
-
-      footer: "默认页脚",
+      copyright: "版权所有 © 2019-2023 Mingtao Li",
+      footer: "<div><span><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">陕ICP备19000424号-1</a></span></div>",
 
       displayFooter: true,
 
