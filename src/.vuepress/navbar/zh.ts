@@ -4,27 +4,13 @@ export const zhNavbar = navbar([
   "/",
   {
     text: "我的简历",
-    icon: "lightbulb",
-    prefix: "/zh/guide/",
-    children: [
-      {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
-      },
-    ],
+    icon: "book",
+    link: "/publications/",
   },
   {
     text: "研究方向",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "/publications/",
   },
   {
     text: "论文/著作",
