@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t}from"./app-52dcf0f6.js";const c={};function r(s,n){return e(),t("div")}const a=o(c,[["render",r],["__file","positions.html.vue"]]);export{a as default};
