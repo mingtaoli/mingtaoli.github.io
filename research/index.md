@@ -51,13 +51,15 @@
 
 ---
 
-## Julia 能源系统组件库
+## Ai4Energy 开源项目
 
-致力于开发基于 Julia 语言的开源能源系统组件库，推动 Julia 在能源领域的应用。
+致力于发展人工智能在能源领域的应用，基于 Julia 生态构建能源系统数字化解决方案。
 
-- [Ai4EComponentLib.jl](https://arxiv.org/abs/2208.11352) — 组件化能源系统模型库
-- [OptControl.jl](https://arxiv.org/abs/2207.13229) — 最优控制问题求解
+- [Ai4EMetaPSE.jl](https://github.com/ai4energy/Ai4EMetaPSE.jl) — 基于DAE的元流程仿真引擎，支持稳态/动态仿真
+- [Ai4EComponentLib.jl](https://arxiv.org/abs/2208.11352) — 可再生能源组件库，适用于综合能源系统仿真
+- [OptControl.jl](https://arxiv.org/abs/2207.13229) — 最优控制求解器，用于模型预测控制
+- [Ai4ELab](https://github.com/ai4energy/Ai4ELab) — 综合能源系统虚拟仿真实验室
 
 @@highlight-box
-**关键词**：Julia · 开源 · 能源系统建模 · 最优控制
+**关键词**：Julia · DAE仿真 · 优化控制 · 开源 · 综合能源系统
 @@

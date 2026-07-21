@@ -67,10 +67,12 @@
 
 ---
 
-## 开源项目
+## 开源项目（Ai4Energy）
 
-- [Ai4EComponentLib.jl](https://github.com/Ai4Energy/Ai4EComponentLib.jl) — Julia 能源系统组件库
-- [OptControl.jl](https://arxiv.org/abs/2207.13229) — 最优控制问题解释器
+- [Ai4EMetaPSE.jl](https://github.com/ai4energy/Ai4EMetaPSE.jl) — 基于DAE的能源系统仿真引擎
+- [Ai4EComponentLib.jl](https://github.com/Ai4Energy/Ai4EComponentLib.jl) — 可再生能源组件库
+- [OptControl.jl](https://github.com/ai4energy/OptControl.jl) — 最优控制求解器
+- [Ai4ELab](https://github.com/ai4energy/Ai4ELab) — 综合能源系统虚拟仿真实验室
 - 更多项目请访问 [Ai4Energy](https://github.com/Ai4Energy)
 
 ---

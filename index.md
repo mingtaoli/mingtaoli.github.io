@@ -11,7 +11,7 @@
 @@
 
 研究方向：**氢电互补能源系统** · **光电催化与CO₂还原** · **能源系统数字化与AI**
-                    · **第一性原理计算** · **Julia 能源系统建模**
+                    · **第一性原理计算** · **DAE仿真与优化**
 
 @@profile-links
 [📧 mingtao@xjtu.edu.cn](mailto:mingtao@xjtu.edu.cn)
@@ -39,8 +39,8 @@
 
 1. **氢电互补能源系统** — 可再生能源-氢能-储能耦合系统的建模、仿真、优化与控制
 2. **光电催化与表界面模拟** — 基于第一性原理的光电催化分解水制氢、CO₂还原反应机理研究
-3. **能源系统数字化** — 基于物联网、大数据、人工智能的智慧能源系统
-4. **Julia 能源系统组件库** — 开源 Ai4Energy 项目，开发基于 Julia 的能源系统组件库（[Ai4EComponentLib.jl](https://arxiv.org/abs/2208.11352)）
+3. **能源系统数字化与AI** — 基于微分代数方程（DAE）的能源系统仿真引擎、优化求解与模型预测控制
+4. **开源 Ai4Energy** — 开发 Julia 能源系统组件库（[Ai4EComponentLib.jl](https://arxiv.org/abs/2208.11352)）、仿真引擎（[Ai4EMetaPSE.jl](https://github.com/ai4energy/Ai4EMetaPSE.jl)）、最优控制（[OptControl.jl](https://github.com/ai4energy/OptControl.jl)）
 5. **传热与流动数值模拟** — 复杂多物理场的高性能计算模拟
 
 ## 代表性成果
