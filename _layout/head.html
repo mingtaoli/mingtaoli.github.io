@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="Franklin.jl">
+  <meta name="description" content="{{fill website_descr}}">
+  {{if hasmath}} {{insert head_katex.html }}     {{end}}
+  {{if hascode}} {{insert head_highlight.html }}   {{end}}
+  <link rel="stylesheet" href="/css/franklin.css">
+  <link rel="stylesheet" href="/css/basic.css">
+  <link rel="icon" href="/assets/favicon.png">
+  {{isdef title}} <title>{{fill title}} — {{fill website_title}}</title>  {{end}}
+</head>
+<body>
+  {{insert header.html}}
+
+<!-- Content appended here -->

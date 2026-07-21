@@ -1,0 +1,500 @@
+/* ==================================================================
+   MINGTAOLI.CN — Academic Personal Website
+   ================================================================== */
+
+/* ==================================================================
+   VARIABLES
+   ================================================================== */
+:root {
+  --primary: #1a5276;
+  --primary-light: #2980b9;
+  --accent: #e67e22;
+  --text: #2c3e50;
+  --text-light: #7f8c8d;
+  --bg: #ffffff;
+  --bg-light: #f8f9fa;
+  --border: #e8e8e8;
+  --link: #2980b9;
+  --link-hover: #1a5276;
+}
+
+/* ==================================================================
+   BASE
+   ================================================================== */
+html {
+  font-family: "Helvetica Neue", Arial, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 17px;
+  color: var(--text);
+  line-height: 1.7;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* ==================================================================
+   HEADER & NAVIGATION
+   ================================================================== */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 12.5% 15px;
+  border-bottom: 1px solid var(--border);
+  margin-top: 0;
+  margin-bottom: 0;
+  background: var(--bg);
+}
+
+header .blog-name {
+  font-size: 20px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+header .blog-name a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+header .blog-name a:hover {
+  color: var(--primary-light);
+}
+
+nav {
+  width: auto;
+  display: block;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li a {
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 500;
+  padding: 8px 12px;
+  margin: 0;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+nav li a:hover {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+  text-decoration: none;
+}
+
+#menu-icon {
+  display: none;
+  width: 28px;
+  height: 28px;
+  cursor: pointer;
+}
+
+/* ==================================================================
+   MAIN CONTENT
+   ================================================================== */
+.franklin-content {
+  position: relative;
+  padding: 2em 12.5% 3em;
+  line-height: 1.8;
+  min-height: 60vh;
+}
+
+@media (min-width: 940px) {
+  .franklin-content {
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  header {
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .franklin-content {
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+}
+
+/* ==================================================================
+   TITLES
+   ================================================================== */
+.franklin-content h1 {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--primary);
+  padding-bottom: 0.4em;
+  border-bottom: 3px double var(--border);
+  margin-top: 1.8em;
+  margin-bottom: 1em;
+}
+
+.franklin-content h2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--primary);
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border);
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+}
+
+.franklin-content h3 {
+  font-size: 19px;
+  font-weight: 600;
+  color: var(--text);
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+.franklin-content h1 a,
+.franklin-content h2 a,
+.franklin-content h3 a {
+  color: inherit;
+}
+
+.franklin-content h1 a:hover,
+.franklin-content h2 a:hover,
+.franklin-content h3 a:hover {
+  text-decoration: none;
+}
+
+/* ==================================================================
+   PROFILE SECTION
+   ================================================================== */
+.profile {
+  display: flex;
+  gap: 2.5em;
+  align-items: flex-start;
+  margin: 2em 0 3em;
+}
+
+.profile-avatar {
+  flex-shrink: 0;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--border);
+}
+
+.profile-text {
+  flex: 1;
+}
+
+.profile-text h1 {
+  font-size: 28px;
+  border: none;
+  padding: 0;
+  margin: 0 0 0.3em;
+  color: var(--primary);
+}
+
+.profile-text .subtitle {
+  font-size: 16px;
+  color: var(--text-light);
+  margin-bottom: 1em;
+}
+
+.profile-text p {
+  margin: 0.5em 0;
+}
+
+.profile-links {
+  margin-top: 1em;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin-right: 1em;
+  font-size: 14px;
+  color: var(--primary-light);
+}
+
+.profile-links a:hover {
+  color: var(--primary);
+}
+
+@media (max-width: 600px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .profile-avatar {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+/* ==================================================================
+   HOME PAGE — RESEARCH HIGHLIGHTS
+   ================================================================== */
+.highlight-box {
+  background: var(--bg-light);
+  border-left: 4px solid var(--primary-light);
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.highlight-box h3 {
+  margin-top: 0;
+}
+
+/* ==================================================================
+   PUBLICATIONS LIST
+   ================================================================== */
+.pub-list {
+  list-style: none;
+  padding: 0;
+}
+
+.pub-list li {
+  padding: 0.8em 0;
+  border-bottom: 1px solid var(--border);
+  line-height: 1.6;
+}
+
+.pub-list li:last-child {
+  border-bottom: none;
+}
+
+.pub-list .pub-authors {
+  font-style: normal;
+}
+
+.pub-list .pub-title {
+  font-style: italic;
+}
+
+.pub-list .pub-journal {
+  font-style: normal;
+}
+
+.pub-highlight {
+  background: #fff8e1;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #e67e22;
+}
+
+/* ==================================================================
+   TABLES
+   ================================================================== */
+.franklin-content table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  text-align: left;
+  margin-bottom: 1.5em;
+  width: 100%;
+  font-size: 15px;
+}
+
+.franklin-content th,
+.franklin-content td {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+}
+
+.franklin-content th {
+  background: var(--bg-light);
+  font-weight: 600;
+  color: var(--primary);
+}
+
+/* ==================================================================
+   BLOCKQUOTES
+   ================================================================== */
+.franklin-content blockquote {
+  background: var(--bg-light);
+  border-left: 4px solid var(--primary-light);
+  margin: 1.5em 0;
+  padding: 0.8em 1.5em;
+  font-style: normal;
+  color: var(--text-light);
+}
+
+/* ==================================================================
+   CODE
+   ================================================================== */
+code {
+  background-color: var(--bg-light);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-size: 14px;
+  font-family: "JuliaMono", "JetBrains Mono", "Fira Code", monospace;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+.hljs {
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+/* ==================================================================
+   FOOTER
+   ================================================================== */
+.page-foot {
+  font-size: 13px;
+  color: var(--text-light);
+  text-align: center;
+  margin-top: 4em;
+  border-top: 1px solid var(--border);
+  padding-top: 1.5em;
+  padding-bottom: 2em;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+}
+
+.page-foot a {
+  color: var(--text-light);
+  text-decoration: underline;
+}
+
+.page-foot a:hover {
+  color: var(--primary-light);
+}
+
+.page-foot .copyright {
+  margin-bottom: 0.3em;
+}
+
+.footer-meta {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+/* ==================================================================
+   404 PAGE
+   ================================================================== */
+.error-page {
+  text-align: center;
+  padding: 5em 2em;
+}
+
+.error-page h1 {
+  font-size: 72px;
+  color: var(--primary);
+  border: none;
+  margin: 0;
+}
+
+.error-page p {
+  font-size: 18px;
+  color: var(--text-light);
+}
+
+/* ==================================================================
+   TAGS
+   ================================================================== */
+.franklin-toc ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+.franklin-toc ol ol {
+  padding-left: 2em;
+  list-style-type: lower-alpha;
+}
+
+.franklin-toc li {
+  margin: 0.4rem 0;
+}
+
+/* ==================================================================
+   RESPONSIVE: NAV COLLAPSE
+   ================================================================== */
+@media (max-width: 800px) {
+  header {
+    flex-wrap: wrap;
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+
+  nav ul {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    right: 6%;
+    top: 60px;
+    width: 200px;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    z-index: 100;
+    padding: 8px 0;
+  }
+
+  nav ul li {
+    display: block;
+  }
+
+  nav ul li a {
+    display: block;
+    padding: 10px 16px;
+    border-bottom: none;
+  }
+
+  nav:hover ul,
+  nav:active ul {
+    display: flex;
+  }
+
+  #menu-icon {
+    display: inline-block;
+  }
+
+  .page-foot {
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+}
+
+/* ==================================================================
+   PRINT
+   ================================================================== */
+@media print {
+  header { display: none; }
+  .page-foot { display: none; }
+  .franklin-content { padding: 1em; }
+}
