@@ -19,7 +19,6 @@
 [📝 Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 [🧪 XJTU 教师主页](https://gr.xjtu.edu.cn/web/mingtao)
 [⚡ Ai4Energy](https://github.com/Ai4Energy)
-[▶️ YouTube](https://www.youtube.com/@ai4energy)
 @@
 @@
 @@
@@ -89,11 +88,6 @@
 <a href="https://weibo.com" target="_blank" class="social-badge" style="color:#e6162d;">
   <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M10.098 20.323c-3.977.391-7.414-1.406-7.672-4.02-.259-2.609 2.759-5.047 6.74-5.441 3.979-.394 7.413 1.404 7.671 4.018.259 2.6-2.759 5.049-6.739 5.443zM12 0C5.373 0 0 4.822 0 10.774c0 3.573 2.252 6.708 5.654 8.583.412-1.777 1.607-3.343 3.253-4.375-1.542-.772-2.623-2.227-2.623-3.914 0-2.464 2.377-4.463 5.31-4.463 2.932 0 5.31 1.999 5.31 4.463 0 1.689-1.083 3.145-2.628 3.916 1.645 1.03 2.84 2.594 3.253 4.37C21.746 17.48 24 14.346 24 10.774 24 4.822 18.627 0 12 0z"/></svg>
   微博
-</a>
-
-<a href="https://www.youtube.com/@ai4energy" target="_blank" class="social-badge" style="color:#ff0000;">
-  <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-  YouTube
 </a>
 
 </div>
