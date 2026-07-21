@@ -68,6 +68,7 @@
 
 ## 关注
 
+~~~
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;margin:1.5em 0;align-items:center;">
 
 <a href="YOUR_WECHAT_OFFICIAL_ACCOUNT" target="_blank" class="social-badge" style="color:#07c160;">
@@ -96,3 +97,4 @@
 </a>
 
 </div>
+~~~
