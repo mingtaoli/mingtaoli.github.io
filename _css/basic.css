@@ -244,6 +244,34 @@ nav li a:hover {
   color: var(--primary);
 }
 
+/* ==================================================================
+   SOCIAL MEDIA BADGES
+   ================================================================== */
+.social-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: all .2s ease;
+}
+
+.social-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-decoration: none;
+}
+
+@media (max-width: 480px) {
+  .social-badge {
+    font-size: 13px;
+    padding: 5px 10px;
+  }
+}
+
 @media (max-width: 600px) {
   .profile {
     flex-direction: column;
