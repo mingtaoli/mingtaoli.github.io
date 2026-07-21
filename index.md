@@ -7,6 +7,7 @@
 @@subtitle
 西安交通大学 能源与动力工程学院 副教授 | 博士生导师
 绿色氢电全国重点实验室（原动力工程多相流国家重点实验室）
+国际可再生能源研究中心 (IRCRE) 副教授
 @@
 
 研究方向：**氢电互补能源系统** · **光电催化与CO₂还原** · **能源系统数字化与AI**
@@ -26,7 +27,7 @@
 
 ## 关于我
 
-我是西安交通大学能源与动力工程学院副教授、博士生导师，绿色氢电全国重点实验室成员。
+我是西安交通大学能源与动力工程学院副教授、博士生导师，绿色氢电全国重点实验室（原动力工程多相流国家重点实验室）成员，国际可再生能源研究中心（IRCRE）副教授。
 长期从事新能源转化与能源系统数字化领域的交叉研究，致力于将**计算模拟**、**人工智能**与**能源系统**深度融合。
 
 @@highlight-box
@@ -45,6 +46,7 @@
 ## 代表性成果
 
 - 发表期刊论文 **70 余篇**，引用 **~8700 次**，h-index **51**
+- 连续入选 **斯坦福大学世界 Top 2% 顶尖科学家**（2022–2025）
 - 主编国家标准 **3 项**、地方标准 **1 项**
 - 获 **陕西省科学技术进步奖一等奖**（2016）
 - 获国家发明专利授权 **2 项**
@@ -52,10 +54,10 @@
 
 ## 最新动态
 
-- **2025**: 在 *Nature Communications*, *Advanced Functional Materials*, *ACS Energy Letters* 等期刊发表多篇高水平论文
-- **2024**: 课题组在高电压锂金属电池电解液、锂硫电池等领域取得重要进展
-- **2023**: 在 *Journal of Colloid and Interface Science*, *ACS Catalysis*, *Angewandte Chemie* 等发表论文
-- **2022**: Ai4EComponentLib.jl 开源发布
+- **2025**: IRCRE 团队多人入选斯坦福大学 World Top 2% Scientists（2025版）；在 *Nature Communications*, *Advanced Functional Materials*, *ACS Energy Letters* 等期刊发表高水平论文
+- **2024**: 入选斯坦福大学 World Top 2% Scientists（2024版）
+- **2023**: 入选斯坦福大学 World Top 2% Scientists（2023版）；在 *Journal of Colloid and Interface Science*, *ACS Catalysis*, *Angewandte Chemie* 等发表论文
+- **2022**: Ai4EComponentLib.jl 开源发布；入选斯坦福大学 World Top 2% Scientists（2022版）
 
 ---
 
