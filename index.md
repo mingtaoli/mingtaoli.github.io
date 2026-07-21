@@ -13,7 +13,7 @@
                     · **第一性原理计算** · **Julia 能源系统建模**
 
 @@profile-links
-[📧 lmt01558@mail.xjtu.edu.cn](mailto:lmt01558@mail.xjtu.edu.cn)
+[📧 mingtao@xjtu.edu.cn](mailto:mingtao@xjtu.edu.cn)
 [🔗 GitHub](https://github.com/mingtaoli)
 [📝 Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 [🧪 XJTU 教师主页](https://gr.xjtu.edu.cn/web/mingtao)
